@@ -51,7 +51,7 @@ Como fundador da **Marvin Site Builders**, lidero a criação de sites, landing 
 
 ### 🛠️ Projetos em Destaque
 
-* **🏦 [TechBank 2.0 (PWA)](https://marcossoftwareengineering.github.io/PWA_APP_Bank/)** - Aplicativo financeiro responsivo com simulação de transações, controle dinâmico de saldo e modo escuro (Dark Mode).
+* **🏦 [TechBank 2.0 (PWA)](https://marcossoftwareengineering.github.io/Pwa_App_Bank/)** - Aplicativo financeiro responsivo com simulação de transações, controle dinâmico de saldo e modo escuro (Dark Mode).(Dark Mode).(Dark Mode).
 * **📑 [Folha de Pagamento](https://marcossoftwareengineering.github.io/Payroll/)** - Gestão financeira para canteiros de obras com busca em tempo real.
 * **📦 [Armazém (Warehouse)](https://marcossoftwareengineering.github.io/Warehouse/)** - Controle de estoque inteligente com rastreamento de insumos.
 * **📝 [Relatório Diário (RDO)](https://marcossoftwareengineering.github.io/Report/)** - Digitalização de diários de obra e controle meteorológico.
