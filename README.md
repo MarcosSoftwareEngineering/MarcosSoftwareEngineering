@@ -76,9 +76,7 @@ Como fundador da **Marvin Site Builders**, lidero a criação de sites, landing 
   </a>
 
  [![Marvin Site Builders](https://img.shields.io/badge/Portfolio-Marvin_Site_Builders-FF5E00?style=for-the-badge&logo=web&logoColor=white)](https://www.marvinsitbilders.com/)
-    <img src="https://img.shields.io/badge/Marvin_Site_Builders-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-
+   
   <a href="mailto:contato@marvinsitebuilders.com.br">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
