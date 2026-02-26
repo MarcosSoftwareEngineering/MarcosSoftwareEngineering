@@ -75,7 +75,7 @@ Como fundador da **Marvin Site Builders**, lidero a criação de sites, landing 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/marcos-vinicius-souza-silva-29025a294" target="_blank">
+ [![Marvin Site Builders](https://img.shields.io/badge/Portfolio-Marvin_Site_Builders-FF5E00?style=for-the-badge&logo=web&logoColor=white)](https://www.marvinsitbilders.com/)
     <img src="https://img.shields.io/badge/Marvin_Site_Builders-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 
