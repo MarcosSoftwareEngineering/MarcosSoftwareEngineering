@@ -14,7 +14,7 @@
 
 | 💻 Marcos Dev | 🛠️ Administrador React Canva |
 | :--- | :--- |
-| Repositório web com meus projetos, aplicações e experimentos de desenvolvimento.<br/>[➡️ Ver Projeto](https://marcos-dev-zeta.vercel.app/) | Painel administrativo construído em React com gerenciamento local de dados (localStorage).<br/>[➡️ Ver Projeto](https://react-canva-admin-6j63.vercel.app/) |
+| Repositório web com meus projetos, aplicações e experimentos de desenvolvimento.<br/>[➡️ Ver Projeto](https://marcos-dev-zeta.vercel.app/) | Painel administrativo construído em React com gerenciamento local de dados (localStorage).<br/>[➡️ Ver Projeto](https://react-canva-admin.vercel.app/) |
 | **Stack:** React.js, JavaScript | **Stack:** React.js, JavaScript |
 
 | 🏦 PWA App Bank | 📦 Warehouse |
