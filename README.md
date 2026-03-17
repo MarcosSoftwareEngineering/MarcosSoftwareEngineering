@@ -12,14 +12,14 @@
 
 ### 🚀 Projetos em Destaque
 
-| 💻 Marcos Dev | 🧿 Contra Mau Olhado |
+| 💻 Marcos Dev | 🎨 Canva Admin Dashboard |
 | :--- | :--- |
-| Repositório web com meus projetos, aplicações e experimentos de desenvolvimento.<br/>[➡️ Ver Projeto](https://marcos-dev-zeta.vercel.app/) | Landing page moderna focada em performance e design responsivo construída com React e Vite.<br/>[➡️ Ver Projeto](https://contra-mau-olhado.vercel.app/) |
-| **Stack:** React.js, JavaScript | **Stack:** React.js, Vite, JavaScript |
+| Repositório web com meus projetos, aplicações e experimentos de desenvolvimento.<br/>[➡️ Ver Projeto](https://marcos-dev-zeta.vercel.app/) | Interface administrativa moderna e responsiva para gerenciamento de mídia, desenvolvida com React e inspirada no Canva.<br/>[➡️ Ver Projeto](https://react-canva-admin.vercel.app/) |
+| **Stack:** React.js, JavaScript | **Stack:** React.js, JavaScript, Tailwind CSS |
 
 | 🏦 PWA App Bank | 🐍 Projeto Python |
 | :--- | :--- |
-| Aplicativo bancário em formato Progressive Web App, com experiência nativa e responsiva.<br/>[➡️ Ver Projeto](https://marcossoftwareengineering.github.io/Pwa_App_Bank/) | Desenvolvimento de soluções back-end e automação utilizando a linguagem Python.<br/>[➡️ Ver Projeto](https://github.com/MarcosSoftwareEngineering/python-payment-gateway)
+| Aplicativo bancário em formato Progressive Web App, com experiência nativa e responsiva.<br/>[➡️ Ver Projeto](https://marcossoftwareengineering.github.io/Pwa_App_Bank/) | Desenvolvimento de soluções back-end e automação utilizando a linguagem Python.<br/>[➡️ Ver Projeto](https://github.com/MarcosSoftwareEngineering/python-payment-gateway) |
 | **Stack:** Vanilla JavaScript (PWA), Engenharia de Software | **Stack:** Python, Lógica de Programação |
 
 ### 📊 Estatísticas do GitHub
@@ -36,5 +36,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-souza-silva-29025a294/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosviniciussouzasilva07@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://marcos-dev-zeta.vercel.app/)
-
----
