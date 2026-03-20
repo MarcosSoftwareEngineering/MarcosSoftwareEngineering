@@ -10,17 +10,17 @@
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Projetos em destaque
 
-| 💻 Marcos Dev | 🎨 Canva Admin Dashboard |
+| 🐍 Python Payment Gateway | 💻 Marcos Dev |
 | :--- | :--- |
-| Repositório web com meus projetos, aplicações e experimentos de desenvolvimento.<br/>[➡️ Ver Projeto](https://marcos-dev-zeta.vercel.app/) | Interface administrativa moderna e responsiva para gerenciamento de mídia, desenvolvida com React e inspirada no Canva.<br/>[➡️ Ver Projeto](https://react-canva-admin.vercel.app/) |
-| **Stack:** React.js, JavaScript | **Stack:** React.js, JavaScript, Tailwind CSS |
+| Sistema de gateway de pagamento para processamento de transações e soluções back-end. <br><br> ➡️ [Ver Projeto](COLOQUE_O_LINK_AQUI) | Repositório web com meus projetos, aplicações e experimentos de desenvolvimento. <br><br> ➡️ [Ver Projeto](COLOQUE_O_LINK_AQUI) |
+| **Stack:** Python | **Tecnologias utilizadas:** React.js, JavaScript |
 
-| 🏦 PWA App Bank | 🐍 Projeto Python |
+| 🎨 Painel de administração do Canva | 🏦 Aplicativo PWA Bank |
 | :--- | :--- |
-| Aplicativo bancário em formato Progressive Web App, com experiência nativa e responsiva.<br/>[➡️ Ver Projeto](https://marcossoftwareengineering.github.io/Pwa_App_Bank/) | Desenvolvimento de soluções back-end e automação utilizando a linguagem Python.<br/>[➡️ Ver Projeto](https://github.com/MarcosSoftwareEngineering/python-payment-gateway) |
-| **Stack:** Vanilla JavaScript (PWA), Engenharia de Software | **Stack:** Python, Lógica de Programação |
+| Interface administrativa moderna e responsiva para gerenciamento de mídia, desenvolvida com React e inspirada no Canva. <br><br> ➡️ [Ver Projeto](COLOQUE_O_LINK_AQUI) | Aplicativo bancário em formato Progressive Web App, com experiência nativa e responsiva. <br><br> ➡️ [Ver Projeto](COLOQUE_O_LINK_AQUI) |
+| **Tecnologias utilizadas:** React.js, JavaScript, Tailwind CSS | **Stack:** Vanilla JavaScript (PWA), Engenharia de Software |
 
 ### 📊 Estatísticas do GitHub
 
