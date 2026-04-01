@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Marcos Vinicius
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=600&lines=Entusiasta+da+tecnologia;Apaixonado+por+Engenharia+de+Software+e+Front-end;Desenvolvedor+Full+Stack+em+formação;Criando+experiências+digitais+de+alta+performance+e+conversão;Interesses:+Metodologias+Ágeis%2C+Engenharia+de+Software%2C+PWA;Atualmente+na+Marvin+Site+Builders;Aprendendo:+Arquitetura+de+Software;Buscando+colaborações+em+React.js+e+Front-end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=800&lines=Software+Engineer+%7C+Full+Stack+Developer;Arquitetando+soluções+escaláveis+e+de+alta+disponibilidade;Especialista+em+Front-end+avançado+e+Back-end+robusto;Foco+em+Performance%2C+Clean+Code+e+Design+Patterns;Transformando+requisitos+complexos+em+sistemas+eficientes;Pós-graduando+em+Engenharia+de+Software;Atualmente+na+Marvin+Site+Builders)](https://git.io/typing-svg)
 
 ---
 
@@ -14,13 +14,13 @@
 
 | 🐍 Python Payment Gateway | 💻 Marcos Dev |
 | :--- | :--- |
-| Sistema de gateway de pagamento para processamento de transações e soluções back-end. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/python-payment-gateway) | Repositório web com meus projetos, aplicações e experimentos de desenvolvimento. <br><br> ➡️ [Ver Projeto](https://portfolio-ten-pied-x4n6outkgn.vercel.app/) |
-| **Stack:** Python | **Tecnologias utilizadas:** React.js, JavaScript |
+| Sistema de gateway de pagamento para processamento de transações. Arquitetura voltada para alta concorrência, resiliência e integridade de dados no back-end. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/python-payment-gateway) | Aplicação Full Stack atuando como portfólio dinâmico. Demonstração prática de integração de APIs, otimização de UI/UX e componentização avançada. <br><br> ➡️ [Ver Projeto](https://portfolio-ten-pied-x4n6outkgn.vercel.app/) |
+| **Stack:** Python, Engenharia de Software | **Stack:** React.js, JavaScript, Integrações |
 
-| 🎨Landing Page Quadros com área ADM | 🏦 Aplicativo PWA Bank |
+| 🎨 Área ADM - Gestão de Mídia | 🏦 PWA Bank Core |
 | :--- | :--- |
-| Interface administrativa moderna e responsiva para gerenciamento de mídia, desenvolvida com React e inspirada no Canva. <br><br> ➡️ [Ver Projeto](https://react-canva-admin.vercel.app/) | Aplicativo bancário em formato Progressive Web App, com experiência nativa e responsiva. <br><br> ➡️ [Ver Projeto](https://marcossoftwareengineering.github.io/Pwa_App_Bank/) |
-| **Tecnologias utilizadas:** React.js, JavaScript, Tailwind CSS | **Stack:** Vanilla JavaScript (PWA), Engenharia de Software |
+| Dashboard administrativo Full Stack com gestão complexa de estado e mídia, focado em performance, segurança e usabilidade (inspirado no Canva). <br><br> ➡️ [Ver Projeto](https://react-canva-admin.vercel.app/) | Progressive Web App (PWA) de ecossistema bancário. Implementação de estratégias avançadas de cache, offline-first e arquitetura moderna. <br><br> ➡️ [Ver Projeto](https://marcossoftwareengineering.github.io/Pwa_App_Bank/) |
+| **Stack:** React.js, JavaScript, Tailwind CSS | **Stack:** Vanilla JavaScript, PWA, Engenharia de Software |
 
 ### 📊 Estatísticas do GitHub
 
