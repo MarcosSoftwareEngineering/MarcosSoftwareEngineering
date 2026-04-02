@@ -17,7 +17,7 @@
 | **Stack:** Python, Engenharia de Software | **Stack:** React.js, JavaScript, Integrações |
 | 🤖 WhatsApp Chatbot | 🏦 PWA Bank Core |
 | :--- | :--- |
-| Chatbot automatizado para WhatsApp construído com Node.js e TypeScript. Foco em performance, escalabilidade e código limpo, com autenticação via QR Code e arquitetura preparada para evolução. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering) | Progressive Web App (PWA) de ecossistema bancário. Implementação de estratégias avançadas de cache, offline-first e arquitetura moderna. <br><br> ➡️ [Ver Projeto](https://marcossoftwareengineering.github.io/Pwa_App_Bank/) |
+| Chatbot automatizado para WhatsApp construído com Node.js e TypeScript. Foco em performance, escalabilidade e código limpo, com autenticação via QR Code e arquitetura preparada para evolução. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/ChatBoot.Ts) | Progressive Web App (PWA) de ecossistema bancário. Implementação de estratégias avançadas de cache, offline-first e arquitetura moderna. <br><br> ➡️ [Ver Projeto](https://marcossoftwareengineering.github.io/Pwa_App_Bank/) |
 | **Stack:** Node.js, TypeScript, whatsapp-web.js | **Stack:** Vanilla JavaScript, PWA, Engenharia de Software |
 
 ---
