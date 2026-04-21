@@ -1,24 +1,26 @@
 # 👋 Olá, eu sou o Marcos Vinicius
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=800&lines=Software+Engineer+%7C+Full+Stack+Developer;Arquitetando+soluções+escaláveis+e+de+alta+disponibilidade;Especialista+em+Front-end+avançado+e+Back-end+robusto;Foco+em+Performance%2C+Clean+Code+e+Design+Patterns;Transformando+requisitos+complexos+em+sistemas+eficientes;Pós-graduando+em+Engenharia+de+Software;Atualmente+na+Marvin+Site+Builders)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=800&lines=Software+Engineer+%7C+Full+Stack+Developer;Arquitetando+soluções+escaláveis+e+de+alta+disponibilidade;Especialista+em+Front-end+avançado+e+Back-end+robusto;Foco+em+Performance%2C+Clean+Code+e+Design+Patterns;Transformando+requisitos+complexos+em+sistemas+eficientes;Pós-graduando+em+Engenharia+de+Software;Atualmente+como+Marcos+Software+Engineer)](https://git.io/typing-svg)
 
 ---
 
 ### 💻 Minhas ferramentas e tecnologias favoritas
 
-[![Minhas Skills](https://skillicons.dev/icons?i=react,html,css,js,kotlin,androidstudio,python,aws,php,java,postgres,git,github&perline=10)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=ts,nodejs,flutter,dart,sqlite,react,html,css,js,python,aws,postgres,java,kotlin,androidstudio,php,git,github&perline=10)](https://skillicons.dev)
 
 ---
 
 ### 🚀 Projetos em destaque
 
-| 🐍 Python Payment Gateway | 💻 Marcos Dev |
+| ⚙️ Skay Motor Dashboard | 🐍 Python Payment Gateway |
 | :--- | :--- |
-| Sistema de gateway de pagamento para processamento de transações. Arquitetura voltada para alta concorrência, resiliência e integridade de dados no back-end. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/python-payment-gateway) | Aplicação Full Stack atuando como portfólio dinâmico. Demonstração prática de integração de APIs, otimização de UI/UX e componentização avançada. <br><br> ➡️ [Ver Projeto](https://portfolio-ten-pied-x4n6outkgn.vercel.app/) |
-| **Stack:** Python, Engenharia de Software | **Stack:** React.js, JavaScript, Integrações |
-| 🤖 WhatsApp Chatbot | 🏦 PWA Bank Core |
-| :--- | :--- |
-| Chatbot automatizado para WhatsApp construído com Node.js e TypeScript. Foco em performance, escalabilidade e código limpo, com autenticação via QR Code e arquitetura preparada para evolução. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/ChatBoot.Ts) | Progressive Web App (PWA) de ecossistema bancário. Implementação de estratégias avançadas de cache, offline-first e arquitetura moderna. <br><br> ➡️ [Ver Projeto](https://marcossoftwareengineering.github.io/Pwa_App_Bank/) |
-| **Stack:** Node.js, TypeScript, whatsapp-web.js | **Stack:** Vanilla JavaScript, PWA, Engenharia de Software |
+| Sistema SaaS Full Stack para automação de WhatsApp. Conta com motor Node.js, chat em tempo real via WebSockets e painel frontend compilado em Flutter. Arquitetura em camadas, banco SQLite e blindagem anti-ban. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/wpp-bot-dashboard) | Sistema de gateway de pagamento para processamento de transações. Arquitetura voltada para alta concorrência, resiliência e integridade de dados no back-end. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/python-payment-gateway) |
+| **Stack:** Node.js, Flutter, TypeScript, SQLite | **Stack:** Python, Engenharia de Software |
+| 💻 Marcos Dev Portfolio | 🏦 PWA Bank Core |
+| Aplicação Full Stack atuando como portfólio dinâmico. Demonstração prática de integração de APIs, otimização de UI/UX e componentização avançada. <br><br> ➡️ [Ver Projeto](https://portfolio-ten-pied-x4n6outkgn.vercel.app/) | Progressive Web App (PWA) de ecossistema bancário. Implementação de estratégias avançadas de cache, offline-first e arquitetura moderna. <br><br> ➡️ [Ver Projeto](https://marcossoftwareengineering.github.io/Pwa_App_Bank/) |
+| **Stack:** React.js, JavaScript, Integrações | **Stack:** Vanilla JavaScript, PWA, Engenharia de Software |
+| 🤖 WhatsApp Chatbot (Legacy) | 🚧 Em breve |
+| Chatbot automatizado para WhatsApp construído com Node.js e TypeScript. Foco em performance, escalabilidade e código limpo, com autenticação via QR Code e arquitetura preparada para evolução. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/ChatBoot.Ts) | Novos sistemas escaláveis e arquiteturas de alta disponibilidade sendo desenvolvidos nos bastidores. <br><br> ➡️ Aguarde |
+| **Stack:** Node.js, TypeScript, whatsapp-web.js | **Stack:** Engenharia de Software |
 
 ---
 
