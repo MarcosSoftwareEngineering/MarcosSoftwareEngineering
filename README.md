@@ -1,16 +1,26 @@
 ### 🚀 Projetos em Destaque
 
-| 🐍 Python Payment Gateway | 🏦 Banking API |
+| 🌐 Meu Portfólio MSE | 🐍 Python Payment Gateway |
 | :--- | :--- |
-| Microsserviço de gateway de pagamento projetado para alta concorrência e integridade transacional. Desenvolvido com Python (FastAPI), aplicando princípios de **Clean Architecture** para garantir resiliência e manutenibilidade no processamento financeiro. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/python-payment-gateway) | API bancária de alta performance para gestão de contas e transações. Implementação robusta de regras de negócio complexas, autenticação segura (JWT) e validação estrita de dados, focando em segurança e consistência de estado. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/banking-api) |
-| **Stack:** Python, FastAPI, Engenharia de Software | **Stack:** Python, APIs RESTful, Segurança |
+| Portfólio Full Stack integrado com Supabase e hospedado no Firebase. Inclui galeria interativa de projetos e funcionalidade de download de currículo automatizada. <br><br> ➡️ [Ver Projeto](https://portfolio-marcos-mse.web.app/) | Microsserviço de pagamentos de alta concorrência com FastAPI. Aplica **Clean Architecture** para resiliência e integridade em transações financeiras. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/python-payment-gateway) |
+| **Stack:** React, Supabase, Firebase | **Stack:** Python, FastAPI, Engenharia de Software |
 
-| 🏛️ Sistema Bancário DIO POO | 🤖 GessoBot |
+| 🏦 Banking API | 👁️ Demo Chatbot Oftalmológico |
 | :--- | :--- |
-| Modelagem de domínio complexo utilizando **Programação Orientada a Objetos (POO)** avançada em Python. O projeto demonstra domínio sólido em encapsulamento, herança, polimorfismo e abstração de lógicas de negócio financeiras seguindo princípios SOLID. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/sistema-bancario-dio-poo) | Solução autônoma de automação de WhatsApp para gestão de leads. Arquitetura resiliente focada em estabilidade contínua de conexão, incorporando estratégias avançadas de blindagem anti-banimento e gerenciamento de filas. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/gessobot) |
-| **Stack:** Python, POO, Design de Software | **Stack:** Node.js, TypeScript, Automação |
+| API bancária de alta performance para contas e transações. Foco em segurança (JWT), validação de dados e consistência de estado. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/banking-api) | Emulador interativo de chatbot focado no nicho de oftalmologia. Réplica visual fiel do WhatsApp (UI/UX) com máquina de estados para captação de leads de pacientes. <br><br> ➡️ [Ver Projeto](https://marcossoftwareengineering.github.io/botOftamologico/) |
+| **Stack:** Python, APIs RESTful, Segurança | **Stack:** HTML/CSS/JS, UI/UX, FSM |
+
+| 🦷 Demo Chatbot Odonto | 🤖 GessoBot |
+| :--- | :--- |
+| Simulador prático de chatbot de pré-agendamento para clínicas odontológicas. Interface interativa com lógica de roteamento conversacional e captura de dados. <br><br> ➡️ [Ver Projeto](https://marcossoftwareengineering.github.io/BotOdont/) | Automação resiliente de WhatsApp para gestão contínua de leads. Implementa estratégias de anti-banimento e gerenciamento de sessões estabilizadas. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/gessobot) |
+| **Stack:** HTML/CSS/JS, UI/UX, FSM | **Stack:** Node.js, TypeScript, Automação |
 
 | ⚙️ WPP Bot Dashboard | 🎨 React Canva Admin |
 | :--- | :--- |
-| Motor de disparos e painel administrativo SaaS em tempo real. Arquitetura distribuída utilizando **WebSockets** para comunicação bidirecional de baixa latência, combinando um backend Node.js otimizado com um frontend de alta performance. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/wpp-bot-dashboard) | Interface administrativa construída com foco em componentização avançada e renderização dinâmica. Aplica padrões modernos de gerenciamento de estado e otimização de UI/UX para garantir uma experiência de utilizador fluida e escalável. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/React_Canva_Admin) |
-| **Stack:** Node.js, WebSockets, Arquitetura Full Stack | **Stack:** React.js, JavaScript, UI/UX Engineering |
+| Painel SaaS em tempo real para disparos de WhatsApp. Utiliza **WebSockets** para comunicação de baixa latência entre o backend e a interface de controle. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/wpp-bot-dashboard) | Interface administrativa construída com componentização avançada no React. Otimização de estado e renderização dinâmica para gestão fluida. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/React_Canva_Admin) |
+| **Stack:** Node.js, WebSockets, Full Stack | **Stack:** React.js, JavaScript, UI/UX Engineering |
+
+| 🏛️ Sistema Bancário DIO POO | |
+| :--- | :--- |
+| Modelagem de domínio financeiro utilizando **POO** avançada e princípios SOLID em Python. Domínio em encapsulamento, herança e polimorfismo. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/sistema-bancario-dio-poo) | |
+| **Stack:** Python, POO, Design de Software | |
