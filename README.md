@@ -1,26 +1,16 @@
 ### 🚀 Projetos em Destaque
 
-| 🌐 Meu Portfólio MSE | 🐍 Python Payment Gateway |
+| 🌐 Portfólio Sensorial MSE | 🏦 API Bancária |
 | :--- | :--- |
-|  Portfólio construído com arquitetura modular (HTML/JS/CSS separados via SoC). Interface com Tailwind CSS, Ocultação Inteligente (Idle Timeout) e manipulação avançada de DOM para temas e áudio. Hospedado no GitHub Pages. <br><br> ➡️ [Ver Projeto](https://marcossoftwareengineering.github.io/portfoliosensorial/) | Microsserviço de gateway de pagamento projetado para alta concorrência e integridade transacional. Desenvolvido com Python (FastAPI), aplicando princípios de **Clean Architecture**. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/python-payment-gateway) |
-| **Stack:** React, Supabase, Firebase | **Stack:** Python, FastAPI, Engenharia de Software |
+| Portfólio focado em UX/UI e experiência sensorial. Desenvolvido com Clean Architecture (SoC), Tailwind CSS, transição de temas dinâmicos e engine de áudio imersivo. Hospedado no GitHub Pages. <br><br> ➡️ [Ver Projeto](https://marcossoftwareengineering.github.io/portfoliosensorial/) | API assíncrona de alta performance para gestão de contas e transações. Focada em transações seguras, escalabilidade e validação estrita de dados. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/API-bancaria) |
+| **Stack:** HTML, CSS, JavaScript, Tailwind, UX/UI | **Stack:** Python 3.13, FastAPI, SQLAlchemy, Pydantic |
 
-| 🏦 Banking API | 🏛️ Sistema Bancário DIO POO |
+| 🤖 ChatBoot.Ts | 💳 Python Payment Gateway |
 | :--- | :--- |
-| API bancária de alta performance para gestão de contas e transações. Implementação robusta de regras de negócio, autenticação segura (JWT) e validação estrita de dados. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/banking-api) | Modelagem de domínio complexo utilizando **Programação Orientada a Objetos (POO)** avançada em Python. O projeto demonstra domínio sólido em encapsulamento, herança e polimorfismo. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/sistema-bancario-dio-poo) |
-| **Stack:** Python, APIs RESTful, Segurança | **Stack:** Python, POO, Design de Software |
+| Solução autônoma de automação baseada em TypeScript. Arquitetura resiliente e modular focada em estabilidade contínua para gestão e roteamento de fluxos conversacionais. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/ChatBoot.Ts) | Simulação de um microsserviço de gateway de pagamento projetado para alta concorrência e integridade transacional. Aplica princípios robustos de **Clean Architecture**. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/gateway-de-pagamento-em-python) |
+| **Stack:** TypeScript, Node.js, Engenharia de Software | **Stack:** Python, FastAPI, Integração de Pagamentos |
 
-| 👁️ Demo Chatbot Oftalmológico | 🦷 Demo Chatbot Odonto |
+| 🏛️ Sistema Bancário DIO POO | 📚 Guia de Estudos NotebookLM |
 | :--- | :--- |
-| Emulador interativo de chatbot focado no nicho de oftalmologia. Réplica visual fiel do WhatsApp (UI/UX) com máquina de estados finita (FSM) para captação ágil de leads de pacientes. <br><br> ➡️ [Ver Projeto](https://marcossoftwareengineering.github.io/botOftamologico/) | Simulador prático de chatbot de pré-agendamento para clínicas odontológicas. Arquitetura front-end interativa com lógica de roteamento conversacional e captura estruturada de dados. <br><br> ➡️ [Ver Projeto](https://marcossoftwareengineering.github.io/BotOdont/) |
-| **Stack:** HTML/CSS/JS, UI/UX Engineering, FSM | **Stack:** HTML/CSS/JS, UI/UX Engineering, FSM |
-
-| 🤖 GessoBot | ⚙️ WPP Bot Dashboard |
-| :--- | :--- |
-| Solução autônoma de automação de WhatsApp para gestão de leads. Arquitetura resiliente focada em estabilidade contínua, incorporando estratégias avançadas de blindagem anti-banimento. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/gessobot) | Motor de disparos e painel administrativo SaaS em tempo real. Arquitetura distribuída utilizando **WebSockets** para comunicação bidirecional de baixa latência. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/wpp-bot-dashboard) |
-| **Stack:** Node.js, TypeScript, Automação | **Stack:** Node.js, WebSockets, Arquitetura Full Stack |
-
-| 🎨 React Canva Admin | |
-| :--- | :--- |
-| Interface administrativa construída com foco em componentização avançada e renderização dinâmica. Aplica padrões modernos de gerenciamento de estado e otimização de UI. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/React_Canva_Admin) | |
-| **Stack:** React.js, JavaScript, UI/UX Engineering | |
+| Modelagem de domínio complexo utilizando **Programação Orientada a Objetos (POO)** avançada em Python. Demonstra domínio sólido em encapsulamento, herança e polimorfismo. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/sistema-bancario-dio-poo) | Repositório estratégico focado em estruturação de bases de conhecimento e engenharia de prompt utilizando a inteligência artificial do Google NotebookLM. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/guia-estudos-notebooklm) |
+| **Stack:** Python, POO, Design de Software | **Stack:** IA, Engenharia de Prompt, Gestão do Conhecimento |
