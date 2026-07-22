@@ -2,7 +2,7 @@
 
 | 🌐 Meu Portfólio MSE | 🐍 Python Payment Gateway |
 | :--- | :--- |
-| Portfólio Full Stack integrado com Supabase e hospedado no Firebase. Interface dinâmica com galeria de projetos e engine automatizada para download de currículo em PDF. <br><br> ➡️ [Ver Projeto](https://portfolio-marcos-mse.web.app/) | Microsserviço de gateway de pagamento projetado para alta concorrência e integridade transacional. Desenvolvido com Python (FastAPI), aplicando princípios de **Clean Architecture**. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/python-payment-gateway) |
+|  Portfólio construído com arquitetura modular (HTML/JS/CSS separados via SoC). Interface com Tailwind CSS, Ocultação Inteligente (Idle Timeout) e manipulação avançada de DOM para temas e áudio. Hospedado no GitHub Pages. <br><br> ➡️ [Ver Projeto](https://marcossoftwareengineering.github.io/portfoliosensorial/) | Microsserviço de gateway de pagamento projetado para alta concorrência e integridade transacional. Desenvolvido com Python (FastAPI), aplicando princípios de **Clean Architecture**. <br><br> ➡️ [Ver Projeto](https://github.com/MarcosSoftwareEngineering/python-payment-gateway) |
 | **Stack:** React, Supabase, Firebase | **Stack:** Python, FastAPI, Engenharia de Software |
 
 | 🏦 Banking API | 🏛️ Sistema Bancário DIO POO |
