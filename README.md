@@ -1,10 +1,3 @@
-<!-- GRÁFICOS DINÂMICOS DE ENGENHARIA -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosSoftwareEngineering&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSoftwareEngineering&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<br>
-
 ### 🚀 Projetos em Destaque
 
 | 🌐 Portfólio Sensorial MSE | 🏦 API Bancária |
